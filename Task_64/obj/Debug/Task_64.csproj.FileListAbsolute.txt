@@ -1,0 +1,8 @@
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\bin\Debug\Task_64.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\bin\Debug\Task_64.exe
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\bin\Debug\Task_64.pdb
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\obj\Debug\Task_64.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\obj\Debug\Task_64.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\obj\Debug\Task_64.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\obj\Debug\Task_64.exe
+C:\_GB\01. Программирование\C#\HomeWork_9\Task_64\obj\Debug\Task_64.pdb
